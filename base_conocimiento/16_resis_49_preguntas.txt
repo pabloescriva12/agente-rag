@@ -85,7 +85,7 @@ Q: ¿Alguna vez puedo ir a hacer una prueba?
 A: Claro, no hay ningún problema, contacta con el responsable de la asociación.
 
 Q: ¿Quién es el responsable del proyecto de residencias (RESIS)?
-A: Es Carlos ([redacted]).
+A: Es Carlos.
 
 Q: ¿Qué perfil de voluntarios suele participar?
 A: Jóvenes estudiantes con ganas de compartir tiempo y aprender de las personas mayores.
@@ -146,5 +146,4 @@ A: Sí, si lo necesitas, se puede emitir un certificado de participación.
 
 Q: ¿Qué tengo que hacer para dejar el voluntariado?
 A: Solo avisar con antelación al responsable para que puedan reorganizar el grupo.
-
 

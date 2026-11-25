@@ -207,12 +207,12 @@ secrets, personal data, or private browser information.
 
 ## Data, privacy, and licensing
 
-The included knowledge corpus contains third-party organizational material and
-public-facing contact details. Confirm that you have permission to redistribute
-those documents and contact details before publishing or reusing the repository
-commercially. Remove or anonymize anything that is not authorized for public
-release. No software license is currently provided, so reuse rights are not
-granted by this repository.
+The included knowledge corpus contains third-party organizational material.
+Personal phone numbers and email addresses have been removed from the published
+project history. Confirm that you have permission to redistribute the source
+documents before reusing them, especially for commercial purposes. No software
+license is currently provided, so reuse rights are not granted by this
+repository.
 
 ## Contributors
 
