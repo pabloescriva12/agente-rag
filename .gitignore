@@ -3,8 +3,13 @@
 venv/
 env/
 
-# Credenciales
+# Credenciales y archivos de entorno
 .env
+.env.*
+!.env.example
+*.key
+*.p12
+*.pfx
 
 # Python
 __pycache__/
@@ -15,6 +20,11 @@ __pycache__/
 
 # Vector store (se reconstruye solo)
 chroma_db/
+
+# Resultados y documentos generados localmente
+benchmark/benchmark.json
+benchmark/benchmark.md
+GUIA_DEFENSA.pdf
 
 # Streamlit
 .streamlit/secrets.toml
