@@ -1,0 +1,27 @@
+{
+  "_": "Marca true las capacidades que el equipo IMPLEMENTA realmente. Declarar algo en true sin tenerlo es trampa y penaliza.",
+  "interfaz": "opcion_a",
+  "modulo": "consultar.py",
+  "endpoint_http": null,
+  "arquitectura": "single_agent",
+  "bandas_declaradas": {
+    "banda5_pipeline_no_inventa": true,
+    "banda6_cita_archivo": true,
+    "banda7_benchmark_4_modelos": false,
+    "banda8_ragas_metricas_propias": false,
+    "banda10_hexagonal": false
+  },
+  "extras_declarados": {
+    "frontend": true,
+    "aws_rekognition": false,
+    "huggingface": false
+  },
+  "modelos_evaluados_en_benchmark": [
+    {"alias": "llama3.2:3b", "servidor": "ollama_local"},
+    {"alias": "qwen2.5:3b", "servidor": "ollama_local"},
+    {"alias": "poligpt-default", "servidor": "poligpt"},
+    {"alias": "poligpt-alt", "servidor": "poligpt"}
+  ],
+  "ollama_local_obligatorio": true,
+  "verify_ssl_upv": false
+}

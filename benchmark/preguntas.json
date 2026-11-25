@@ -1,0 +1,89 @@
+{
+  "_comentario": "Set fijo de 12 preguntas para el benchmark. Mezcla: factuales directas (1-5), sintesis multi-doc (6-8), contradicciones del corpus (9-10), fuera de ambito (11-12).",
+  "preguntas": [
+    {
+      "id": "P01",
+      "categoria": "factual",
+      "texto": "Que es DNI?",
+      "respuesta_esperada": "Damos Nuestra Ilusion, asociacion juvenil de voluntariado en Valencia.",
+      "fuentes_esperadas": ["04_filosofia_dni.txt", "01_faq_dni.txt", "08_preguntas_basicas.txt"]
+    },
+    {
+      "id": "P02",
+      "categoria": "factual",
+      "texto": "Donde es el punto de encuentro de los desayunos solidarios?",
+      "respuesta_esperada": "[private location] (o [private location]) de Valencia.",
+      "fuentes_esperadas": ["01_faq_dni.txt", "07_desayunos_logistica.txt", "15_desayunos_100_preguntas.txt"]
+    },
+    {
+      "id": "P03",
+      "categoria": "factual",
+      "texto": "Que dia de la semana se hacen los desayunos solidarios?",
+      "respuesta_esperada": "Los sabados.",
+      "fuentes_esperadas": ["01_faq_dni.txt", "07_desayunos_logistica.txt"]
+    },
+    {
+      "id": "P04",
+      "categoria": "factual",
+      "texto": "Donde se hace el refuerzo escolar (COLES)?",
+      "respuesta_esperada": "[private location] en [private location], Valencia. (Ojo: 11_horarios_ubicaciones.txt dice biblioteca tutorizada -> contradiccion).",
+      "fuentes_esperadas": ["01_faq_dni.txt", "06_coles_refuerzo.txt", "11_horarios_ubicaciones.txt"]
+    },
+    {
+      "id": "P05",
+      "categoria": "factual",
+      "texto": "Cuantos voluntarios suelen participar en cada desayuno?",
+      "respuesta_esperada": "Entre 15 y 30 personas en total, con grupos de reparto de 5 a 8.",
+      "fuentes_esperadas": ["15_desayunos_100_preguntas.txt"]
+    },
+    {
+      "id": "P06",
+      "categoria": "sintesis_multidoc",
+      "texto": "En que se diferencian los proyectos RESIS y COLES?",
+      "respuesta_esperada": "RESIS son visitas a residencias de mayores; COLES es refuerzo escolar para ninos. Frecuencia, ubicacion y publico distintos.",
+      "fuentes_esperadas": ["05_resis_actividades.txt", "06_coles_refuerzo.txt", "10_proyectos.txt"]
+    },
+    {
+      "id": "P07",
+      "categoria": "sintesis_multidoc",
+      "texto": "Cuales son los valores fundamentales de DNI?",
+      "respuesta_esperada": "Empatia, cercania, generosidad, solidaridad, compromiso, alegria. Lema: PARA. MIRA. AYUDA.",
+      "fuentes_esperadas": ["04_filosofia_dni.txt"]
+    },
+    {
+      "id": "P08",
+      "categoria": "sintesis_multidoc",
+      "texto": "Que necesito para ser voluntario en DNI?",
+      "respuesta_esperada": "Ganas de ayudar; para COLES ademas certificado de delitos sexuales en vigor y seguro de voluntario.",
+      "fuentes_esperadas": ["01_faq_dni.txt", "09_como_participar.txt", "06_coles_refuerzo.txt"]
+    },
+    {
+      "id": "P09",
+      "categoria": "contradiccion",
+      "texto": "A que hora son exactamente los desayunos solidarios?",
+      "respuesta_esperada": "El corpus contiene dos versiones: [schedule removed] (01_faq_dni y 07_desayunos_logistica) frente a [schedule removed]-[schedule removed] (11_horarios_ubicaciones). El agente deberia mencionar ambas.",
+      "fuentes_esperadas": ["01_faq_dni.txt", "07_desayunos_logistica.txt", "11_horarios_ubicaciones.txt"]
+    },
+    {
+      "id": "P10",
+      "categoria": "contradiccion",
+      "texto": "Donde se hace exactamente el refuerzo escolar?",
+      "respuesta_esperada": "Hay contradiccion: [private location] ([private location]) vs biblioteca tutorizada en Valencia.",
+      "fuentes_esperadas": ["01_faq_dni.txt", "06_coles_refuerzo.txt", "11_horarios_ubicaciones.txt"]
+    },
+    {
+      "id": "P11",
+      "categoria": "fuera_ambito",
+      "texto": "Cuanto cuesta el alquiler medio en Valencia?",
+      "respuesta_esperada": "Debe rechazar diciendo que no tiene esa informacion en sus fuentes.",
+      "fuentes_esperadas": []
+    },
+    {
+      "id": "P12",
+      "categoria": "fuera_ambito",
+      "texto": "Quien gano la Champions League en 2024?",
+      "respuesta_esperada": "Debe rechazar diciendo que no tiene esa informacion en sus fuentes.",
+      "fuentes_esperadas": []
+    }
+  ]
+}
