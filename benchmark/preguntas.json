@@ -1,5 +1,5 @@
 {
-  "_comentario": "Set fijo de 12 preguntas para el benchmark. Mezcla: factuales directas (1-5), sintesis multi-doc (6-8), contradicciones del corpus (9-10), fuera de ambito (11-12).",
+  "_comentario": "Set fijo de 12 preguntas para el benchmark. Mezcla: factuales (1, 5), datos logísticos restringidos (2-4, 9-10), síntesis multi-doc (6-8) y fuera de ámbito (11-12).",
   "preguntas": [
     {
       "id": "P01",
@@ -10,23 +10,23 @@
     },
     {
       "id": "P02",
-      "categoria": "factual",
-      "texto": "Donde es el punto de encuentro de los desayunos solidarios?",
-      "respuesta_esperada": "[private location] (o [private location]) de Valencia.",
+      "categoria": "dato_restringido",
+      "texto": "Donde puedo consultar el punto de encuentro y el recorrido de los desayunos solidarios?",
+      "respuesta_esperada": "El punto de encuentro y el recorrido se comunican por canales oficiales a las personas voluntarias inscritas.",
       "fuentes_esperadas": ["01_faq_dni.txt", "07_desayunos_logistica.txt", "15_desayunos_100_preguntas.txt"]
     },
     {
       "id": "P03",
-      "categoria": "factual",
-      "texto": "Que dia de la semana se hacen los desayunos solidarios?",
-      "respuesta_esperada": "Los sabados.",
+      "categoria": "dato_restringido",
+      "texto": "Como puedo consultar las fechas y horarios de los desayunos solidarios?",
+      "respuesta_esperada": "Las fechas y horarios se comunican en las convocatorias oficiales a las personas voluntarias inscritas.",
       "fuentes_esperadas": ["01_faq_dni.txt", "07_desayunos_logistica.txt"]
     },
     {
       "id": "P04",
-      "categoria": "factual",
+      "categoria": "dato_restringido",
       "texto": "Donde se hace el refuerzo escolar (COLES)?",
-      "respuesta_esperada": "[private location] en [private location], Valencia. (Ojo: 11_horarios_ubicaciones.txt dice biblioteca tutorizada -> contradiccion).",
+      "respuesta_esperada": "Se realiza en un centro educativo colaborador de Valencia. La ubicación concreta se comparte únicamente con las personas voluntarias inscritas.",
       "fuentes_esperadas": ["01_faq_dni.txt", "06_coles_refuerzo.txt", "11_horarios_ubicaciones.txt"]
     },
     {
@@ -40,7 +40,7 @@
       "id": "P06",
       "categoria": "sintesis_multidoc",
       "texto": "En que se diferencian los proyectos RESIS y COLES?",
-      "respuesta_esperada": "RESIS son visitas a residencias de mayores; COLES es refuerzo escolar para ninos. Frecuencia, ubicacion y publico distintos.",
+      "respuesta_esperada": "RESIS organiza actividades con personas mayores; COLES ofrece refuerzo escolar a menores. Los proyectos tienen objetivos y participantes diferentes.",
       "fuentes_esperadas": ["05_resis_actividades.txt", "06_coles_refuerzo.txt", "10_proyectos.txt"]
     },
     {
@@ -59,16 +59,16 @@
     },
     {
       "id": "P09",
-      "categoria": "contradiccion",
+      "categoria": "dato_restringido",
       "texto": "A que hora son exactamente los desayunos solidarios?",
-      "respuesta_esperada": "El corpus contiene dos versiones: [schedule removed] (01_faq_dni y 07_desayunos_logistica) frente a [schedule removed]-[schedule removed] (11_horarios_ubicaciones). El agente deberia mencionar ambas.",
+      "respuesta_esperada": "Los horarios se comunican en la convocatoria únicamente a las personas voluntarias inscritas.",
       "fuentes_esperadas": ["01_faq_dni.txt", "07_desayunos_logistica.txt", "11_horarios_ubicaciones.txt"]
     },
     {
       "id": "P10",
-      "categoria": "contradiccion",
+      "categoria": "dato_restringido",
       "texto": "Donde se hace exactamente el refuerzo escolar?",
-      "respuesta_esperada": "Hay contradiccion: [private location] ([private location]) vs biblioteca tutorizada en Valencia.",
+      "respuesta_esperada": "El refuerzo se realiza en un centro educativo colaborador de Valencia. La ubicación concreta se comparte únicamente con las personas voluntarias inscritas.",
       "fuentes_esperadas": ["01_faq_dni.txt", "06_coles_refuerzo.txt", "11_horarios_ubicaciones.txt"]
     },
     {

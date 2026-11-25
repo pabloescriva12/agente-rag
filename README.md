@@ -20,7 +20,7 @@ important information against the cited source documents.
 - Command-line interface and Streamlit chat interface.
 - Ollama for local inference, with an optional OpenAI-compatible PoliGPT backend.
 - A 12-question benchmark runner covering factual questions, synthesis,
-  contradictions, and out-of-scope questions.
+  privacy-restricted logistics, and out-of-scope questions.
 
 ## Architecture
 
@@ -208,7 +208,8 @@ secrets, personal data, or private browser information.
 ## Data, privacy, and licensing
 
 The included knowledge corpus contains third-party organizational material.
-Personal phone numbers and email addresses have been removed from the published
+Personal phone numbers, email addresses, precise activity locations, and
+operational schedules have been removed or generalized from the published
 project history. Confirm that you have permission to redistribute the source
 documents before reusing them, especially for commercial purposes. No software
 license is currently provided, so reuse rights are not granted by this

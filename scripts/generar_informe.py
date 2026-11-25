@@ -189,8 +189,8 @@ def construir():
         "dependencia externa: si Ollama esta arrancado, los embeddings funcionan. "
         "Como vector store elegimos ChromaDB con <code>PersistentClient</code> en "
         "<code>./chroma_db</code>: persiste entre ejecuciones, la API es trivial y la "
-        "metrica coseno funciona bien para embeddings normalizados. Indexar los ~272 chunks "
-        "del corpus tarda unos 30 segundos en CPU; queda en cache para las siguientes consultas."
+        "metrica coseno funciona bien para embeddings normalizados. Indexar el corpus "
+        "tarda unos 30 segundos en CPU; queda en cache para las siguientes consultas."
     ))
 
     story.append(p("3.3 Prompt anti-alucinacion y manejo de contradicciones", estilo_h2))
@@ -198,9 +198,9 @@ def construir():
         "El system prompt explicita tres reglas: <b>(1)</b> responder solo desde el "
         "contexto, devolviendo 'No tengo esa informacion en mis fuentes' si no esta; "
         "<b>(2)</b> mencionar ambas versiones cuando hay contradicciones (el corpus "
-        "contiene contradicciones intencionadas: por ejemplo, horario de los "
-        "desayunos [schedule removed] vs [schedule removed]-[schedule removed]; ubicacion de COLES como [private location] "
-        "vs biblioteca tutorizada); <b>(3)</b> no anyadir conocimiento general. Tras la "
+        "contiene información logística que se comparte de forma privada con los "
+        "voluntarios inscritos, en lugar de publicar ubicaciones y horarios precisos); "
+        "<b>(3)</b> no anyadir conocimiento general. Tras la "
         "generacion vaciamos la lista de fuentes citadas si la respuesta es de rechazo, "
         "para no citar archivos que no contenian realmente la respuesta."
     ))
@@ -272,11 +272,9 @@ def construir():
         estilo_cita,
     ))
     story.append(p(
-        "<i>P: \u00bfA que hora son los desayunos? \u2192 El modelo, en una de cada dos "
-        "ejecuciones, coge solo la version de las [schedule removed] (parcial). En las otras, si "
-        "se le hace una pregunta mas especifica (\u00bfHay informacion contradictoria...?) "
-        "menciona ambas versiones. Esta es la limitacion mas visible del modelo "
-        "local frente a los PoliGPT.</i>",
+        "<i>P: \u00bfDonde puedo consultar el punto de encuentro? \u2192 La respuesta "
+        "debe indicar que la ubicación y el recorrido se comparten por canales internos "
+        "con las personas voluntarias inscritas, para proteger a las personas atendidas.</i>",
         estilo_cita,
     ))
     story.append(p(

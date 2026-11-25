@@ -6,19 +6,19 @@ Q: ¿Qué se hace en la actividad de desayunos solidarios?
 A: La actividad consiste en que un grupo de voluntarios se reúne en un punto de encuentro y se divide en equipos. Cada equipo recorre una zona de Valencia repartiendo desayunos o cenas a personas sin hogar. Lo más importante no es solo la comida, sino el tiempo que se comparte con ellos, ofreciéndoles conversación y compañía.
 
 Q: ¿Dónde es el punto de encuentro para desayunos?
-A: El punto de encuentro siempre es la [private location] de Valencia. Desde ahí repartimos los alimentos por las zonas de [private location], el centro, [private location] o [private location] entre otros.
+A: El punto de encuentro y los recorridos se comunican a los voluntarios inscritos por canales oficiales, para proteger la privacidad de las personas atendidas.
 
 Q: ¿A qué hora son los desayunos solidarios?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Los horarios de los desayunos y las cenas se comunican en la convocatoria a los voluntarios inscritos.
 
 Q: ¿Cada cuánto se realizan los desayunos solidarios?
-A: Normalmente, la actividad se realiza una vez a la semana, pero lo mejor es que consultes el calendario de la comunidad de WhatsApp o preguntes a un miembro del staff.
+A: La frecuencia y las convocatorias se comunican a través de los canales oficiales de la asociación.
 
 Q: ¿Cuánto dura la actividad de desayunos?
 A: Depende del día, de la cantidad de personas que encontramos en la calle y de la zona por la que se reparta. Normalmente solemos estimar que la actividad dura una hora y media más el posterior desayuno voluntario de los propios participantes que se puede alargar lo que ellos quieran.
 
 Q: ¿Cómo me apunto a los desayunos solidarios?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Las convocatorias se publican con antelación por los canales oficiales de la asociación, donde las personas voluntarias pueden consultar la información e inscribirse.
 
 Q: ¿Si me apunto un día a desayunos tengo que ir al resto?
 A: No. Los desayunos y cenas solidarios son lo que en DNI llamamos actividades puntuales: son voluntariados a los que te puedes apuntar un día sin la necesidad de que tengas que ir a las próximas actividades.
@@ -35,13 +35,13 @@ Q: ¿Qué se hace en el refuerzo escolar?
 A: En actividades de refuerzo escolar vamos a un colegio a ayudar a niños que viven realidades difíciles. Dependiendo de la edad, el voluntariado es más de clases enfocadas al repaso de deberes o de conceptos, o a la lectura de cuentos, realización de manualidades, etc.
 
 Q: ¿Dónde es el refuerzo escolar?
-A: Es en el [private location] de [private location], Valencia.
+A: Se realiza en un centro educativo colaborador de Valencia. La ubicación concreta se comparte únicamente con las personas voluntarias inscritas.
 
 Q: ¿Qué días es el refuerzo escolar?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Los días y horarios se comunican únicamente a las personas voluntarias inscritas.
 
 Q: ¿Cuánto dura el refuerzo escolar?
-A: De [schedule removed] a [schedule removed], es decir, una hora.
+A: La duración se comunica a las personas voluntarias inscritas.
 
 Q: ¿Qué edad tienen los niños del refuerzo escolar?
 A: Los niños van desde los tres años hasta sexto de primaria. Hay dos grupos de Infantil y tres de primaria. Siempre divididos por edades.
@@ -59,18 +59,18 @@ Q: ¿Puedo elegir a qué grupo de niños ir en el refuerzo escolar?
 A: Claro, intentamos que todos los voluntarios estén con el grupo de niños que más les apetezca, siempre priorizando que no haya ningún grupo que se quede vacío.
 
 Q: ¿Qué otras actividades con niños hace DNI?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Además del programa de refuerzo escolar, a lo largo del año hacemos otras actividades puntuales como Llegada de los Reyes en Navidad o como el Día del Niño en verano. Este último consiste en llevar a niños de centros de acogida a Terra Mítica a pasar un gran día.
 
 ===== RESIDENCIAS (RESIS) =====
 
-Q: ¿Dónde está la residencia [private location]?
-A: En la residencia [private location], muy cerca de [private location] en la [private location].
+Q: ¿Dónde se realizan las actividades con personas mayores?
+A: Se realizan en residencias colaboradoras de Valencia. La ubicación concreta se comparte únicamente con las personas voluntarias inscritas.
 
 Q: ¿Qué días se hace la actividad con abuelitos?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Los días y horarios se comunican únicamente a las personas voluntarias inscritas.
 
 Q: ¿Qué se hace en la actividad con abuelitos?
-A: En este voluntariado vamos a pasar tiempo con los residentes de [private location]. A través de distintas actividades buscamos llevarles la alegría de los jóvenes.
+A: En este voluntariado pasamos tiempo con los residentes de las residencias colaboradoras. A través de distintas actividades buscamos llevarles la alegría de los jóvenes.
 
 Q: ¿Qué tipo de actividades se realizan con los abuelitos?
 A: Meriendas, paseos, juegos de mesa, excursiones y muchas más.

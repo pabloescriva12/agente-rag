@@ -1,22 +1,22 @@
-### COLES - REFUERZO ESCOLAR [private location] ###
+### COLES - REFUERZO ESCOLAR ###
 
 Q: ¿Qué se hace en el refuerzo escolar?
 A: En actividades de refuerzo escolar vamos a un colegio a ayudar a niños que viven realidades difíciles. Dependiendo de la edad el voluntariado es más de clases enfocadas al repaso de deberes o de conceptos o a la lectura de cuentos, realización de manualidades etc.
 
 Q: ¿Dónde es el refuerzo escolar?
-A: Es el [private location] de [private location] Valencia.
+A: En un centro educativo colaborador de Valencia. La ubicación concreta se comparte únicamente con las personas voluntarias inscritas.
 
 Q: ¿Qué días es el refuerzo escolar?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Los días y horarios se comunican únicamente a las personas voluntarias inscritas.
 
 Q: ¿Cuánto dura el refuerzo escolar?
-A: De [schedule removed] a [schedule removed].
+A: La duración se comunica a las personas voluntarias inscritas.
 
 Q: ¿Qué edad tienen los niños del refuerzo escolar?
 A: Los niños van desde los tres años hasta sexto de primaria, hay dos grupos de Infantil y tres de primaria. Siempre divididos por edades.
 
-Q: ¿Cómo vamos hasta [private location]?
-A: Organizamos coches desde Valencia o alrededores para que todos los voluntarios tengan modo de ir.
+Q: ¿Cómo se organiza el desplazamiento al refuerzo escolar?
+A: La información logística se comparte con las personas voluntarias inscritas.
 
 Q: ¿Quién paga la gasolina del refuerzo escolar?
 A: De la gasolina se encarga la asociación.
@@ -28,4 +28,4 @@ Q: ¿Puedo elegir a qué grupo de niños ir?
 A: Claro intentamos que todos los voluntarios estén con el grupo de niños que más les apetezca siempre priorizando que no haya ningún grupo que se quede vacío.
 
 Q: ¿Qué otras actividades con niños hace DNI?
-A: Los detalles logísticos se comparten únicamente con las personas voluntarias inscritas.
+A: Además del programa de refuerzo escolar, a lo largo del año hacemos otras actividades puntuales como Llegada de los Reyes en Navidad o como el Día del Niño en verano. Este último consiste en llevar a niños de centros de acogida a Terra Mítica a pasar un gran día.
